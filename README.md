@@ -1,4 +1,4 @@
-At this point this site contains the lecture notes only
+At this point this site contains the lecture notes only which can be found [here](/lectures.pdf)
 
 # Description
 
